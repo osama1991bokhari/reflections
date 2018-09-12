@@ -16,4 +16,10 @@
 
  if you want to work offline you know what is the last changes.
 
- 
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ finishing up work with other teammates will be alot easeier, while keeping up with the changes will be difficult and create a lot of overhead.
+
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+ this allows my team to get a chance to review and give me feedback on my work.
